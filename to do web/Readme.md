@@ -5,6 +5,8 @@
 - HTML
 - CSS
 - JavaScript
+
+
 3.Features:
 - Add Tasks: Easily create new tasks to stay on top of your to-dos.
 - Edit Tasks: Modify existing tasks dynamically, ensuring your list is always up-to-date.
